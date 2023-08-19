@@ -1,0 +1,76 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+header{
+    display: flex;
+    background-color: #14161A;
+    min-height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 0px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    height: 50px;
+    margin-right: 12px;
+}
+nav a{
+    font-weight: 600;
+    padding-right: 11px;
+}
+nav a:hover{
+    color: #F0DB4F;
+}
+.nav-menu-burguer{
+    display: none;
+}
+.nav-link-burguer{
+    display: none;
+}
+
+@media (max-width: 680px){
+    header{
+        flex-direction: column;
+        align-items: self-start;
+    }
+    .logo{
+        display: flex;
+        align-items: center;
+        margin-left: 25%;
+    }
+    nav{
+        padding: 10px 0px;
+    }
+    .nav-menu{
+        display: none;
+    }
+    .menuimg{
+        background-color: aliceblue;
+        width: 25px;
+        height: 20px;
+        display: flex;
+        align-items:flex-start;
+        cursor: pointer;
+        margin-bottom: 15px;
+    }
+    .nav-menu-burguer{
+        display: flex;
+        flex-direction: column;
+    }
+    .nav-menu-burguer:hover .nav-link-burguer{
+        display: flex;
+    }
+    .nav-link-burguer{
+        margin: 15px;
+    }
+}
+  
