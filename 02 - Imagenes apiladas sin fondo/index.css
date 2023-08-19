@@ -69,6 +69,9 @@ body{
 transform: translateY(-20px);
 }
 @media (max-width: 680px){
+    header{
+        margin-bottom: -450px;
+    }
     .imagenes-container{
         flex-direction: column;
         height: 180vh;
