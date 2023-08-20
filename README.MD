@@ -12,22 +12,22 @@ No es necesario instalar ninguna dependencia para visualizar estos proyectos de 
 
 ## Lista de proyectos
 
-- Menu básico responsive y menu burger.
-- Imagenes apiladas sin fondo.
-- Barra de busqueda.
-- Ventana de confirmación de pago.
-- Tarjeta con pokémon.
-- Menu con animaciones.
-- Keyframe.
-- Card de zapatillas.
-- Lista de personajes.
-- Hover en tarjetas de personajes.
-- Login.
-- Fondo de movimiento de ondas.
-- Tarjetas con desplazamiento.
-- Iluminación de texto.
-- Rotación de tarjetas 3D.
-- Expandir preguntas.
+- 01 - Menu básico responsive y menu burger.
+- 02 - Imagenes apiladas sin fondo.
+- 03 - Barra de busqueda.
+- 04 - Ventana de confirmación de pago.
+- 05 - Tarjeta con pokémon.
+- 06 - Menu con animaciones.
+- 07 - Keyframe.
+- 08 - Card de zapatillas.
+- 09 - Lista de personajes.
+- 10 - Hover en tarjetas de personajes.
+- 11 - Login.
+- 12 - Fondo de movimiento de ondas.
+- 13 - Tarjetas con desplazamiento.
+- 14 - Iluminación de texto.
+- 15 - Rotación de tarjetas 3D.
+- 16 - Expandir preguntas.
 
 ## Detalle de proyectos 
 
